@@ -35,9 +35,9 @@ org.springframework.beans.factory.BeanDefinitionStoreException: IOException pars
 	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:454)
 	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:139)
 	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:83)
-	at org.mazhuang.demo.protocol.db.DemoContext.init(DemoContext.java:22)
-	at org.mazhuang.demo.protocol.DemoServer.start(DemoServer.java:40)
-	at org.mazhuang.demo.DemoSrv.main(DemoSrv.java:17)
+	at org.cuixiaodao.demo.protocol.db.DemoContext.init(DemoContext.java:22)
+	at org.cuixiaodao.demo.protocol.DemoServer.start(DemoServer.java:40)
+	at org.cuixiaodao.demo.DemoSrv.main(DemoSrv.java:17)
 Caused by: java.io.FileNotFoundException: class path resource [spring-demo.xml] cannot be opened because it does not exist
 	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:158)
 	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:329)
