@@ -14,7 +14,7 @@
     {
       "title"    : "About",
       "url"      : "https://cuixiaodao.github.io/about/",
-      "keywords" : "Zhuang Ma, 马壮"
+      "keywords" : "cuixiaodao, 崔超"
     } ,
   
   
@@ -79,38 +79,6 @@
   
   
 
-  
-    {
-      "title"    : "青蛙跳台阶的问题——Fibonacci",
-      "category" : "Algorithm",
-      
-      "url"      : "https://cuixiaodao.github.io/2011/10/11/fibonacci/",
-      "keywords" : "算法，Fibonacci"
-    } ,
-  
-    {
-      "title"    : "简单的全排列算法实现",
-      "category" : "Algorithm",
-      
-      "url"      : "https://cuixiaodao.github.io/2011/11/20/permutation/",
-      "keywords" : "算法, 全排列, 递归"
-    } ,
-  
-    {
-      "title"    : "解决 IntelliJ IDEA 启动报 Unsupported Java Version 的问题",
-      "category" : "Java",
-      
-      "url"      : "https://cuixiaodao.github.io/2021/03/27/intellij-idea-unsupported-java-version/",
-      "keywords" : "IntelliJ IDEA, Unsupported Java Version"
-    } ,
-  
-    {
-      "title"    : "利用 XXL-JOB 实现灵活控制的分片处理",
-      "category" : "Java",
-      
-      "url"      : "https://cuixiaodao.github.io/2021/06/19/xxl-job-sharding/",
-      "keywords" : "XXL-JOB, Java, 分片广播"
-    } ,
   
     {
       "title"    : "Android Studio",
