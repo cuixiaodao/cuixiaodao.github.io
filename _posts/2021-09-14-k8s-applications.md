@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Peek of Applications In Kubernetes
-categories: [Kubernetes, Cloud Native]
+categories: Kubernetes
 description: A Peek of Applications In Kubernetes
 keywords: Kubernetes, Cloud Native, Application
 ---
